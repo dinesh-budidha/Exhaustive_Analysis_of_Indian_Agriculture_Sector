@@ -1,2 +1,21 @@
-# Exhaustive_Analysis_of_Indian_Agriculture_Sector
-The project analyzes Indian agriculture using Power BI, exploring state-wise, district-wise, season-wise, and year-wise data. It provides insights into crop production, yield, and resource allocation through interactive visualizations. The goal is to identify trends and disparities to support informed decision-making for sustainable farming.
+# Exhaustive-Analysis-of-Indian-Agriculture-Sector
+
+## Overview
+The project aims to conduct a comprehensive analysis of the Indian agriculture sector utilizing Power BI, a powerful business analytics tool.
+
+This project, part of my Edunet Foundation internship, aims to analyzed Indian agriculture using State wise, district wise, Season wise and  year-wise data. The dataset offers insights into various crops, their areas, production, and yields across States,districts and years. Using Power BI.
+
+We aim to create interactive visualizations that reveal trends, patterns, and disparities, empowering stakeholders to make informed decisions for sustainable farming and resource allocation.
+
+## 📌Project Objectives
+
+
+## 📌Tools Used
+- Power BI for data visualization and interactive dashboards.
+
+
+## Live Dashboard : 
+![App Screenshot](https://github.com/tejas79883/Exhaustive-Analysis-of-Indian-Agriculture-Sector/blob/main/files/Dashboard.jpg)
+
+
+![App Screenshot](https://github.com/tejas79883/Exhaustive-Analysis-of-Indian-Agriculture-Sector/blob/main/files/Dashboard%202.jpg)
