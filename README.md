@@ -15,7 +15,7 @@ We aim to create interactive visualizations that reveal trends, patterns, and di
 
 
 ## Live Dashboard : 
-![App Screenshot](https://github.com/tejas79883/Exhaustive-Analysis-of-Indian-Agriculture-Sector/blob/main/files/Dashboard.jpg)
+![App Screenshot](https://github.com/dinesh-budidha/Exhaustive_Analysis_of_Indian_Agriculture_Sector/blob/6829b31717304fedda8e8f94ebd7c77a8219c6ba/images/Dashboard.jpg)
 
 
-![App Screenshot](https://github.com/tejas79883/Exhaustive-Analysis-of-Indian-Agriculture-Sector/blob/main/files/Dashboard%202.jpg)
+![App Screenshot](https://github.com/dinesh-budidha/Exhaustive_Analysis_of_Indian_Agriculture_Sector/blob/6829b31717304fedda8e8f94ebd7c77a8219c6ba/images/Dashboard%202.jpg)
